@@ -25,18 +25,18 @@ export default function () {
                 GPTs Works
               </a>
               <a
-                href="https://gptalk.one"
+                href="https://thinkany.ai?utm_source=aiwallpaper.shop"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                GPTalk
+                ThinkAny AI Search
               </a>
               <a
-                href="https://readknown.cn"
+                href="https://heybeauty.ai?utm_source=aiwallpaper.shop"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                ZKnown
+                HeyBeauty AI Try-On
               </a>
             </div>
             <div className="my-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10 lg:mt-0">
