@@ -6,12 +6,12 @@ import Wallpapers from "@/components/wallpapers";
 export default async function () {
   return (
     <div className="md:mt-16">
-      <div className="max-w-3xl mx-auto">
+      <div className="max-w-6xl mx-auto">
         <Hero />
-        <div className="my-4 md:my-6">
-          <Producthunt />
-        </div>
-        <div className="mx-auto my-4 flex max-w-lg justify-center">
+        {/*<div className="my-4 md:my-6">*/}
+        {/*  <Producthunt />*/}
+        {/*</div>*/}
+        <div className="justify-center">
           <Input />
         </div>
       </div>

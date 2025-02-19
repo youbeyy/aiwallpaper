@@ -6,6 +6,7 @@ const nextConfig = {
       "trysai.s3.us-west-1.amazonaws.com",
       "r2.trys.ai",
       "r2.gpts.works",
+      "154.221.23.232",
     ],
   },
 };
